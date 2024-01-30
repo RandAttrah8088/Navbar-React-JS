@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main{
+  width: 100vw;
+  height: 100vh;
+  background:#162b32 ;
+  transition: 0.5s;
+}
+.main.dark{
+  background:	#b49f60 ;
+}
